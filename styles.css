@@ -1283,4 +1283,12 @@ footer .ligne3 {
         width: 25px;
         margin-bottom: -5px;
     }
+    
+@media screen and (min-width: 1370px) {
+
+    main .presentation{
+        height: 880px;
+
+    }
+
 }
