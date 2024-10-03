@@ -25,7 +25,7 @@ header nav {
     display: flex;
     justify-content: end;
 }
-
+/* Pour la taille du bouton "s'identifier" */
 header nav button {
     padding: 20px 30px;
     font-size: 20px;
@@ -67,7 +67,7 @@ header section p {
     font-size: 12px;
     margin-bottom: 10px;
 }
-
+/* Pour la taille du champ email obligatoire */
 header section .form-container input[type="email"] {
     padding: 16px;
     font-size: 18px;
@@ -80,7 +80,7 @@ header section .form-container input[type="email"] {
     margin-top: 10px;
     margin-bottom: 25px;
 }
-
+/* Pour la taille du bouton */
 header section .form-container button {
     padding: 18px 31px;
     font-size: 14px;
